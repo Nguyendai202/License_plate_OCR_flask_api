@@ -24,8 +24,9 @@ Make sure you have the following requirements installed:
 3. Install the required dependencies using pip.
 ## Usage
 1. Run the Flask application.
+   ![image test](images.jpg)
 
-   []
+   ![](flask_api_bsx.png)
 
 3. Open your web browser and go to 'http://127.0.0.1:5000' to access the application.
 
